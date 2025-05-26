@@ -61,7 +61,7 @@ const projects = [
       "A web-based Geographic Information System that integrates IoT sensors and spatial data to monitor real-time flood conditions, visualize affected areas, and support decision-making for disaster mitigation.",
     image: "/placeholder.svg?height=300&width=400",
     category: "GIS",
-    techStack: ["React.js", "PostGIS", "IoT", "Data Google Maps API"],
+    techStack: ["React.js", "PostGIS", "IoT", "Google Maps API"],
     repoUrl: "#",
     liveUrl: "#",
     featured: true,
