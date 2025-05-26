@@ -56,12 +56,12 @@ const projects = [
   },
   {
     id: 5,
-    title: "Early Warning System for Floods",
+    title: "GIS-Based Early Warning System for Floods",
     description:
-      "Web-based application using React.js and Thingspeak API for sensor monitoring, report generation, and disaster tracking.",
+      "A web-based Geographic Information System that integrates IoT sensors and spatial data to monitor real-time flood conditions, visualize affected areas, and support decision-making for disaster mitigation.",
     image: "/placeholder.svg?height=300&width=400",
     category: "GIS",
-    techStack: ["React.js", "Thingspeak API", "IoT", "Data Visualization"],
+    techStack: ["React.js", "PostGIS", "IoT", "Data Google Maps API"],
     repoUrl: "#",
     liveUrl: "#",
     featured: true,
