@@ -8,18 +8,18 @@ import {
   Menu,
   X,
   Home,
-  User,
   Briefcase,
   Settings,
   BookOpen,
+  Mail,
 } from "lucide-react";
 
 const navItems = [
   { href: "/", label: "Home", icon: Home },
-  { href: "/about", label: "About", icon: User },
   { href: "/projects", label: "Projects", icon: Briefcase },
   { href: "/services", label: "Services", icon: Settings },
   { href: "/blog", label: "Blog", icon: BookOpen },
+  { href: "/contact", label: "Contact", icon: Mail },
 ];
 
 export function Navigation() {
