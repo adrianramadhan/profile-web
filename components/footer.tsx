@@ -52,7 +52,7 @@ export function Footer() {
             className="text-center"
           >
             <h3 className="text-2xl font-bold text-gradient mb-4">
-              Adrian Putra Ramadhan
+              Adrian Ramadhan
             </h3>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
               Full-Stack & AI Engineer passionate about building innovative
